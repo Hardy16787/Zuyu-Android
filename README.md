@@ -1,5 +1,5 @@
 # This project DOES NOT suppot piracy, you are required to source your own games and keys, we make no money off this project.
-
+## If you know anything about emulators and C++ please contribute to the development or presevation of this project. 
 
 <h1 align="center">
 <br>
