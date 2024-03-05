@@ -25,7 +25,6 @@ It is written in C++ with portability in mind, and we actively maintain builds f
   <a href="#development">Development</a> |
   <a href="#building">Building</a> |
   <a href="#download">Download</a> |
-  <a href="#support">Support</a> |
   <a href="#license">License</a>
 </p>
 
@@ -53,7 +52,7 @@ If you want to contribute to the user interface translation project, please chec
 
 ## Download
 
-You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
+You can download the latest releases automatically via the installer on our [downloads](https://web.archive.org/web/20240301201704/https://yuzu-emu.org/downloads/) page.
 
 
 ## License
